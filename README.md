@@ -17,5 +17,7 @@ Requires python 3 and BeautifulSoup library
     $ python cbbtime.py -f 0 -l 10
     you have listened to episodes 0 through 10 of comedy bang! bang! for 9:15:51
 
+As seen in the previous example, episodes are indexed from 0 and don't attempt to account for unnumbered episodes (Best ofs)... trying to think of an easy way to account for them.
+
 ## Disclaimer
 This is in no way meant to be a rigourous, reliable method of doing much of anything. I don't expect people will even see this but I figure it's useful to get some practice using github.
